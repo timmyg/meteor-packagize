@@ -1,0 +1,9 @@
+{
+  "name": "PROJECT NAME HERE",
+  "description": "DESCRIPTION HERE",
+  "homepage": "GITHUB LINK HERE (WITH NO .git ON THE END)",
+  "author": "NAME HERE",
+  "version": "0.0.1",
+  "git": "GITHUB LINK HERE (WITH .git ON THE END)",
+  "packages": {}
+}
